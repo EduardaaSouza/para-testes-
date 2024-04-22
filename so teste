@@ -1,1 +1,14 @@
-testes das aulas
+
+//definir os numeros
+const numeros = [1, 2, 3, 4, 5, 6]
+
+//adicionar um novo numero
+numeros.push(7)
+console.log(numeros)
+
+//remove os numeros
+numeros.splice(3,4)
+console.log(numeros)
+
+//determina o tamanho da string
+console.log(numeros.length)
