@@ -1,2 +1,2 @@
 # para-testes-
-exercicios testes
+exercicios 
